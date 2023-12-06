@@ -1,0 +1,42 @@
+<html>
+<head><title></title>
+<link rel="stylesheet"href="style.css">
+</head>
+<body>
+<header>
+<h1>Гайд на Tower of Hecc (Hell)<img src="https://img.freepik.com/darmowe-wektory/ogien-na-ciemnym-tle_1284-13581.jpg?w=740&t=st=1701507421~exp=1701508021~hmac=42c8c8e32f73909007e8e4394fbef25bd65005cdf0438d144acc06c2fbc55e81"</h1>
+<h2>Та її загальні характеристеки</h2>
+</header>
+<main>
+<h2 id="cccc">
+Загальні характеристеки вежі
+</h2>
+<p>
+Цю вежу можна знайти в кільці 1 (limbo).Ця вежа має складність mid Hard
+</p>
+<h3>
+Цікавий факт
+</h3>
+<p>Ця вежа є найстарішою у режимі</p>
+<h3 id="bbbb">
+Вигляд вежі<br/><img src="https://d2zia2w5autnlg.cloudfront.net/124745/607459cd51753-large">
+</h3>
+<nav>  <a href="https://youtu.be/YVI-eoLNZ5A">як подолати вежу</a><br/>
+<h2 id="aaaa">
+Небачемі моменти 
+</h2>
+<a href="https://youtu.be/OzYSVuYfrag">на другому поверху</a><br/>
+<a href="https://youtu.be/NQTr80hLzwU">на шостому поверху</a><br/>
+<a href="https://youtu.be/yplRtaLZqvY">на сьомому поверху</a><br/>
+<a href="https://youtu.be/CGkjbH0MM3A">на восьмому поверху</a><br/>
+<a href="https://youtu.be/WvgDw1ON5Xw">на десятому поверху</a><br/>
+</nav>
+</main>
+<footer>
+<h2>Посилання на розділи сайту</h2>
+<a href="#cccc">Загальні характеристеки та Цікавий факт</a><br/>
+<a href="#bbbb">Вигляд вежі</a><br/>
+<a href="#aaaa"> як подолати вежу та Небачемі моменти</a><br/>
+</footer>
+</body>
+</html>
